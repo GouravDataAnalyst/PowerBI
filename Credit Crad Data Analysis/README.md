@@ -6,8 +6,6 @@ This repository contains a data analysis project focused on credit card customer
 ## File Structure
 - `CC_Analysis.pbix`: Power BI file containing customer analysis dashboard
 
-- [Any other relevant files or data sources]
-
 ## Features
 - Interactive dashboards for both customer and transaction analysis
 - Revenue breakdowns by various customer attributes
